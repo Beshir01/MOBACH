@@ -1,8 +1,8 @@
 # Mohamadou Bachirou - Portfolio
 
 Welcome to my portfolio.
-I'm Mohamadou Bachirou,
-**Data Annotator | Computer Vision · NLP · Audio & Video Annotation · Data QA**
+
+I'm Mohamadou Bachirou, **Data Annotator | Computer Vision · NLP · Audio & Video Annotation · Data QA**
 📍 Douala, Cameroon — available for remote freelance work
 
 ## 👋 About me
