@@ -1,6 +1,7 @@
 # Mohamadou Bachirou - Portfolio
 
 Welcome to my portfolio, I'm Mohamadou Bachirou.
+# Hi, I'm Mohamadou Bachirou (Beshir) 👋
 
 **Data Annotator | Computer Vision · NLP · Audio & Video Annotation · Data QA**
 📍 Douala, Cameroon — available for remote freelance work
@@ -38,6 +39,7 @@ I prepare clean, precise training data for machine learning and AI models. My fo
 *Reconstructed examples showing the format and level of detail I deliver — not real client data. I'm still building a library of real project samples.*
 
 **Object detection** — street scene, three vehicles and one pedestrian
+[📷 View annotated image](ADD-LINK-HERE)
 ```
 box_1: car          · confidence 0.97
 box_2: motorbike     · confidence 0.91
@@ -52,6 +54,7 @@ intent:    complaint
 ```
 
 **Audio annotation** — customer call, 12-second clip
+[📷 View annotated timeline](ADD-LINK-HERE)
 ```
 00:00–00:04  speaker_1, calm tone
 00:04–00:07  background noise flagged
@@ -59,6 +62,7 @@ intent:    complaint
 ```
 
 **Image segmentation** — kitchen scene, three object classes
+[📷 View annotated image](ADD-LINK-HERE)
 ```
 mask_1: countertop
 mask_2: appliance
@@ -71,7 +75,8 @@ mask_3: cookware — partial occlusion noted
 
 ## 🎓 Certification
 
-**DataLens Africa** — Data Annotation Certification
+**[DataLens Africa — Data Annotation Certification](ADD-LINK-TO-CERTIFICATE-HERE)**
+*(click to view the certificate)*
 
 ## 📬 Get in touch
 
