@@ -1,6 +1,6 @@
 # Mohamadou Bachirou - Portfolio
 
-# Hi, I'm Mohamadou Bachirou (Beshir) 👋
+Welcome to my portfolio, I'm Mohamadou Bachirou.
 
 **Data Annotator | Computer Vision · NLP · Audio & Video Annotation · Data QA**
 📍 Douala, Cameroon — available for remote freelance work
